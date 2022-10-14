@@ -1,1 +1,1 @@
-food > sex > chocolate
+food < sex
